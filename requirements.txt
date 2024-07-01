@@ -1,0 +1,7 @@
+ai21
+pandas
+streamlit
+langchain
+langchain-community
+langchain-core
+numpy
